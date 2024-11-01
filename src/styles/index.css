@@ -1,4 +1,3 @@
-
 /* 
 
     You can write your own styles here...
@@ -10,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.selected {
+  -webkit-box-shadow: 0px 0px 105px 45px rgba(210, 214, 175, 1);
+  -moz-box-shadow: 0px 0px 105px 45px rgba(210, 214, 175, 1);
+  box-shadow: 0px 0px 105px 45px rgba(210, 214, 175, 1);
+}
